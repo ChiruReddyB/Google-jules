@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+chromadb
+langchain
+langchain-openai
+langchain-community
+sentence-transformers
+firebase-admin
+PyPDF2
+python-docx
+python-pptx
+python-multipart
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
